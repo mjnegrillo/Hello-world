@@ -7,9 +7,13 @@ oops I used the master copy.  I am so confused. lol.
 *this text is italicized* 
 
 
-**I think I've figured it out**
-~~My whole life is a mistake~~
-**I wish I had _never_ been born at all**
+**I think I've figured it out.**
+
+
+~~My whole life is a mistake.~~
+
+
+**I wish I had _never_ been born at all.**
 As Conor Oberst once sang: 
 >Maybe the sun keeps coming up / because it's gotten used to you / and your constant need for proof.
 
@@ -19,3 +23,11 @@ A list of movies I watched this summer:
 - Mr. Nobody
 - Still Alice
 - Saving Private Ryan
+
+
+**Top 5 Songs summer 2017:**
+1. Boredom by Tyler. the Creator
+2. Can't Get it Out by Brand New
+3. Eat Shit by Remo Drive
+4. Arienette by Bright Eyes
+5. Videotape by Radiohead
