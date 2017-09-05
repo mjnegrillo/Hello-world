@@ -43,7 +43,10 @@ A list of movies I watched this summer:
     
 
 things to buy for school:
+
 [ ] pens, a lot of pens
+
 [ ] notebooks
+
 [ ] folders for handouts
     
