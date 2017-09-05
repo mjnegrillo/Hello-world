@@ -31,3 +31,13 @@ A list of movies I watched this summer:
 3. Eat Shit by Remo Drive
 4. Arienette by Bright Eyes
 5. Videotape by Radiohead
+
+
+#How Thunder storms form:
+1. High and low pressure systems collide
+    - cool dense air forces warm moist air to rise
+    - rapid rise of warm air cools and condenses quickly
+2. cumulus clouds form
+    - large, dark clouds form with a lot of moist particles colliding and creating friction
+    - lightning splits the sky 
+    
