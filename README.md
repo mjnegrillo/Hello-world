@@ -8,3 +8,8 @@ oops I used the master copy.  I am so confused. lol.
 **I wish I had _never_ been born at all**
 As Conor Oberst once sang: 
 >Maybe the sun keeps coming up / because it's gotten used to you / and your constant need for proof.
+A list of movies I watched this summer:
+- 2001: A Space Odyssey
+- Mr. Nobody
+- Still Alice
+- Saving Private Ryan
